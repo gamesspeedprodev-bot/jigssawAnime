@@ -19,7 +19,6 @@
     "download_url": "https://raw.githubusercontent.com/gamesspeedprodev-bot/jigssawAnime/main/Anime/4.jpeg",
     "type": "file"
   },
-  [
   {
     "name": "Puzzle 5",
     "download_url": "https://raw.githubusercontent.com/gamesspeedprodev-bot/jigssawAnime/main/Anime/5.jpeg",
@@ -40,8 +39,6 @@
     "download_url": "https://raw.githubusercontent.com/gamesspeedprodev-bot/jigssawAnime/main/Anime/8.jpeg",
     "type": "file"
   },
-
-    [
   {
     "name": "Puzzle 9",
     "download_url": "https://raw.githubusercontent.com/gamesspeedprodev-bot/jigssawAnime/main/Anime/9.jpeg",
@@ -62,9 +59,4 @@
     "download_url": "https://raw.githubusercontent.com/gamesspeedprodev-bot/jigssawAnime/main/Anime/12.jpeg",
     "type": "file"
   }
-]
-
-    
-    
-]
 ]
